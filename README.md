@@ -1,11 +1,11 @@
-# Lucid
+# Explayn
 
-Highlight or screenshot anything — Lucid explains it, or reads it to you.
+Highlight or screenshot anything — Explayn explains it, or reads it to you.
 
-**Download:** https://lucid-delta-three.vercel.app
+**Download:** https://www.explayn.com.au
 
 This repository only hosts the installers. Pick the latest release:
 
-- **Mac** — `Lucid-mac.zip`. Unzip, move Lucid to Applications, then right-click → Open the first time.
-- **Windows** — `Lucid-setup.exe`. If SmartScreen appears, choose More info → Run anyway.
-- **Chrome, Edge, Brave, Arc** — `Lucid-Chrome.zip`.
+- **Mac** — `Lucid-mac.dmg` (becoming `Explayn-mac.dmg` with the next notarized build). Open it and drag the app to Applications. If macOS blocks it the first time, go to System Settings → Privacy & Security → Open Anyway.
+- **Windows** — `Explayn-setup.exe`. If SmartScreen appears, choose More info → Run anyway.
+- **Chrome, Edge, Brave, Arc** — `Explayn-Chrome.zip`.
